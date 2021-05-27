@@ -1,2 +1,2 @@
-# Sisphus-end.github.io
+# faker
 Imitate interesting websites
